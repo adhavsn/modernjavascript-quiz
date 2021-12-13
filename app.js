@@ -26,5 +26,5 @@ form.addEventListener('submit', e => {
         } else {
             output ++;
         }
-    },10)
+    },5)
 });
